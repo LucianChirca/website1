@@ -262,16 +262,6 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 5%; }
 
-#resume .resume-item-body {
-   float: left;
-}
-
-#resume .thumbnail {
-   padding-right: 0px;
-   padding-left: 45px;
-   padding-top: 6px;
-}
-
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
@@ -295,7 +285,12 @@ ul#nav li.current a { color: #F06000; }
 #resume img {
    width: 70px;
    height: 70px;
-   float: left;
+}
+
+@media (max-width: 767px){
+   #resume img{
+      margin-left:40%;
+}
 }
 
 /*----------------------------------------------*/
