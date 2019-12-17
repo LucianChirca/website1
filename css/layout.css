@@ -285,6 +285,7 @@ ul#nav li.current a { color: #F06000; }
 #resume img {
    width: 70px;
    height: 70px;
+   display: block;
 }
 
 @media (max-width: 767px){
