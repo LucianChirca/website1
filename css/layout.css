@@ -41,6 +41,11 @@ header {
    background-attachment:fixed;
 }
 
+@supports (-webkit-overflow-scrolling: touch) {
+  /* CSS specific to iOS devices */ 
+   background-attachment:scroll;
+}
+
 /* vertically center banner section */
 header:before {
    content: '';
