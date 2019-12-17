@@ -1,0 +1,4 @@
+1. Icon of Institutions next to the name.
+2. Skills: instead of sliders, have icons, separated by groups (technical, non-technical).
+3. Have page to full resume.
+4. Add projects.
