@@ -286,11 +286,12 @@ ul#nav li.current a { color: #F06000; }
    width: 70px;
    height: 70px;
    display: block;
+
 }
 
 @media (max-width: 767px){
    #resume img{
-      margin-left:40%;
+      margin-left:33%;
 }
 }
 
