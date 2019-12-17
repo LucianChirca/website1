@@ -43,7 +43,9 @@ header {
 
 @supports (-webkit-overflow-scrolling: touch) {
   /* CSS specific to iOS devices */ 
-   background-attachment:scroll;
+   header {
+      background-attachment:scroll;
+}
 }
 
 /* vertically center banner section */
