@@ -91,31 +91,73 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "description":"60%",
+        "thumbnail": "git.png"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Python",
+        "description":"60%",
+        "thumbnail": "python.png"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "description":"60%",
+        "thumbnail": "reactjs.png"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "description":"60%",
+        "thumbnail": "css.png"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "description":"60%",
+        "thumbnail": "html5.png"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"SQL Databases",
+        "description":"MySQL, SQLite, PostgreSQL databases",
+        "thumbnail": "databases.png"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"C",
+        "description":"60%",
+        "thumbnail": "c.png"
+      },
+      {
+        "name":"Haskell",
+        "description":"60%",
+        "thumbnail": "haskell.png"
+      },
+      {
+        "name":"Java",
+        "description":"60%",
+        "thumbnail": "java.png"
+      },
+      {
+        "name":"Spring",
+        "description":"60%",
+        "thumbnail": "spring.png"
+      },
+      {
+        "name":"Linux",
+        "description":"60%",
+        "thumbnail": "linux.png"
+      },
+      {
+        "name":"ReactNative",
+        "description":"60%",
+        "thumbnail": "reactjs.png"
+      },
+      {
+        "name":"UML",
+        "description":"60%",
+        "thumbnail": "uml.png"
+      },
+      {
+        "name":"Bootstrap",
+        "description":"60%",
+        "thumbnail": "bootstrap.png"
       }
     ]
   },
