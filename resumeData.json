@@ -14,48 +14,23 @@
       "state":"Netherlands",
       "zip": "7513DK"
     },
-    "website": "http://www.luciandev.com",
-    "resumedownload":"http://luciandev.com",
+    "website": "http://www.lucianchirca.com",
+    "resumedownload":"http://lucianchirca.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/zombarian",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"This is a list of technologies I have used and am proficient in. ",
     "education":[
       {
         "school":"University of Twente (Enschede, Netherlands)",
@@ -116,12 +91,12 @@
       },
       {
         "name":"SQL Databases",
-        "description":"MySQL, SQLite, PostgreSQL databases",
+        "description":"MySQL, SQLite, PostgreSQL",
         "thumbnail": "databases.png"
       },
       {
         "name":"C",
-        "description":"60%",
+        "description":"5%",
         "thumbnail": "c.png"
       },
       {
