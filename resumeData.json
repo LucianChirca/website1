@@ -14,12 +14,12 @@
       "state":"Netherlands",
       "zip": "7513DK"
     },
-    "website": "http://www.lucianchirca.nl",
+    "website": "http://www.zombarian.github.io/website1",
     "resumedownload":"http://lucianchirca.nl",
     "social":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/lucian-chirca-a96a3b180/",
         "className":"fa fa-linkedin"
       },
       {
@@ -142,7 +142,7 @@
         "title":"Personal website",
         "category":"Personal website with CV/Portfolio",
         "image":"personalwebsite.png",
-        "url":"https://www.lucianchirca.nl"
+        "url":"http://www.zombarian.github.io/website1"
       }
     ]
   },
