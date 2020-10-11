@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Lucian",
-    "occupation":"Student",
-    "description":" with an interest in using technical knowledge in a creative way",
+    "occupation":"Full-stack Developer",
+    "description":" with a passion for using technical knowledge in a creative way",
     "image":"profilepic.jpg",
-    "bio":"I do a lot of Yoga and swimming and I love travelling.",
-    "contactmessage":"Would you like to hire me for one or your projects? Then send me an email!",
+    "bio":"I develop websites and mobile applications as a hobby.",
+    "contactmessage":"Would you like to hire me? Then send me an email! (currently not working)",
     "email": "lucian.chirca@gmail.com",
     "phone": "+31655753711",
     "address":{
@@ -15,7 +15,7 @@
       "zip": "7513DK"
     },
     "website": "http://www.zombarian.github.io/website1",
-    "resumedownload":"http://lucianchirca.nl",
+    "resumedownload":"https://zombarian.github.io/website1/",
     "social":[
       {
         "name":"linkedin",
@@ -30,13 +30,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"This is a list of technologies I have used and am proficient in. ",
+    "skillmessage":"I am an advanced user of the following technologies:",
     "education":[
       {
         "school":"University of Twente (Enschede, Netherlands)",
         "degree":"Bachelor’s degree in Technical Computer Science",
-        "graduated":"2017 - 2020 (expected)",
-        "description":"Learned stuff.",
+        "graduated":"2017 - 2021 (expected)",
+        "description":"Remaining modules: Research Project, One Minor module.",
         "thumbnail": "ut.png"
       },
       {
@@ -65,74 +65,47 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "description":"60%",
-        "thumbnail": "git.png"
-      },
-      {
-        "name":"Python",
-        "description":"60%",
-        "thumbnail": "python.png"
-      },
-      {
-        "name":"ReactJs",
-        "description":"60%",
+        "name":"ReactJs & React Native",
+        "description":"1 Year experience",
         "thumbnail": "reactjs.png"
       },
       {
+        "name":"Javascript",
+        "description":"3 Years experience",
+        "thumbnail": "js.png"
+      },
+      {
         "name":"CSS",
-        "description":"60%",
+        "description":"5 years experience",
         "thumbnail": "css.png"
       },
       {
         "name":"HTML5",
-        "description":"60%",
+        "description":"5 years experience",
         "thumbnail": "html5.png"
       },
       {
         "name":"SQL Databases",
-        "description":"MySQL, SQLite, PostgreSQL",
         "thumbnail": "databases.png"
       },
       {
-        "name":"C",
-        "description":"5%",
-        "thumbnail": "c.png"
-      },
-      {
-        "name":"Haskell",
-        "description":"60%",
-        "thumbnail": "haskell.png"
-      },
-      {
         "name":"Java",
-        "description":"60%",
+        "description":"4 years experience",
         "thumbnail": "java.png"
       },
       {
-        "name":"Spring",
-        "description":"60%",
-        "thumbnail": "spring.png"
+        "name":"Python",
+        "description":"5 years experience",
+        "thumbnail": "python.png"
+      },
+      {
+        "name":"Git",
+        "description": "4 years experience",
+        "thumbnail": "git.png"
       },
       {
         "name":"Linux",
-        "description":"60%",
         "thumbnail": "linux.png"
-      },
-      {
-        "name":"ReactNative",
-        "description":"60%",
-        "thumbnail": "reactjs.png"
-      },
-      {
-        "name":"UML",
-        "description":"60%",
-        "thumbnail": "uml.png"
-      },
-      {
-        "name":"Bootstrap",
-        "description":"60%",
-        "thumbnail": "bootstrap.png"
       }
     ]
   },
@@ -141,8 +114,8 @@
       {
         "title":"Personal website",
         "category":"Personal website with CV/Portfolio",
-        "image":"personalwebsite.png",
-        "url":"http://www.zombarian.github.io/website1"
+        "image":"personalwebsite.PNG",
+        "url":"https://zombarian.github.io/website1/"
       }
     ]
   },
