@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Lucian",
-    "occupation":"Student",
-    "description":" with an interest in using technical knowledge in a creative way",
+    "occupation":"Full-stack Developer",
+    "description":" with a passion for using technical knowledge in a creative way",
     "image":"profilepic.jpg",
-    "bio":"I do a lot of Yoga and swimming and I love travelling.",
-    "contactmessage":"Would you like to hire me for one or your projects? Then send me an email!",
+    "bio":"I develop websites and mobile applications as a hobby.",
+    "contactmessage":"Would you like to hire me? Then send me an email! (currently not working)",
     "email": "lucian.chirca@gmail.com",
     "phone": "+31655753711",
     "address":{
@@ -14,54 +14,29 @@
       "state":"Netherlands",
       "zip": "7513DK"
     },
-    "website": "http://www.luciandev.com",
-    "resumedownload":"http://luciandev.com",
+    "website": "http://www.zombarian.github.io/website1",
+    "resumedownload":"https://zombarian.github.io/website1/",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/lucian-chirca-a96a3b180/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/zombarian",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am an advanced user of the following technologies:",
     "education":[
       {
         "school":"University of Twente (Enschede, Netherlands)",
         "degree":"Bachelor’s degree in Technical Computer Science",
-        "graduated":"2017 - 2020 (expected)",
-        "description":"Learned stuff.",
+        "graduated":"2017 - 2021 (expected)",
+        "description":"Remaining modules: Research Project, One Minor module.",
         "thumbnail": "ut.png"
       },
       {
@@ -90,66 +65,57 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"ReactJs & React Native",
+        "description":"1 Year experience",
+        "thumbnail": "reactjs.png"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Javascript",
+        "description":"3 Years experience",
+        "thumbnail": "js.png"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "description":"5 years experience",
+        "thumbnail": "css.png"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "description":"5 years experience",
+        "thumbnail": "html5.png"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"SQL Databases",
+        "thumbnail": "databases.png"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Java",
+        "description":"4 years experience",
+        "thumbnail": "java.png"
+      },
+      {
+        "name":"Python",
+        "description":"5 years experience",
+        "thumbnail": "python.png"
+      },
+      {
+        "name":"Git",
+        "description": "4 years experience",
+        "thumbnail": "git.png"
+      },
+      {
+        "name":"Linux",
+        "thumbnail": "linux.png"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Personal website",
+        "category":"Personal website with CV/Portfolio",
+        "image":"personalwebsite.PNG",
+        "url":"https://zombarian.github.io/website1/"
       }
     ]
   },

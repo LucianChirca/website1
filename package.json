@@ -1,5 +1,5 @@
 {
-  "homepage":"https://zombarian.github.io/website1/",
+  "homepage": "https://zombarian.github.io/website1/",
   "name": "website1",
   "version": "0.1.0",
   "private": true,
@@ -7,11 +7,13 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.1.2",
+    "@types/react-addons-css-transition-group": "^15.0.5",
     "jquery": "^3.4.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-ga": "^2.7.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "react-transition-group": "^4.3.0"
   },
   "scripts": {
     "predeploy": "npm run build",
